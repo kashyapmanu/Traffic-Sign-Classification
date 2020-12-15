@@ -8,8 +8,8 @@
  <img src="./Images/babyyoda.jpg" alt="Baby Yoda">
 
  <hr>
- <h2>Internal Presntation Resources</h2>
+ <h2>Internal Google Drive</h2>
 
-This is the ppt that will be presented to guide : <http://bit.ly/Traffic-Sign-Detection-Internal-Presentation>
+For presentation, report and other materials : <https://drive.google.com/drive/folders/1IMENM4FQktcX2YyGOYPXXLagTarstAfZ?usp=sharing>
 
 <hr>
