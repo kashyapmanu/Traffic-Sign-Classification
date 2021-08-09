@@ -1,15 +1,7 @@
-# Traffic Sign Classification
- Deep learning model for traffic sign classification
+# Traffic Sign Classification Using CNN
 
- <hr>
+Please find the Code, Report and Presentation of the project "Traffic Sign Classification Using CNN" done as the 8th Semester Project for college NMAMIT.
 
- <center>May the force be with us my dudes</center>
+To run the working prototype created using this model refer: [TSC GUI](https://github.com/kashyapmanu/tcsgui)
 
- <img src="./Images/babyyoda.jpg" alt="Baby Yoda">
-
- <hr>
- <h2>Internal Google Drive</h2>
-
-For presentation, report and other materials : <https://drive.google.com/drive/folders/1IMENM4FQktcX2YyGOYPXXLagTarstAfZ?usp=sharing>
-
-<hr>
+We were beginners to machine learning when we started this projects and we used to focus mainly on web and app development and other things. Huge thanks to https://www.murtazahassan.com/ for teaching us lot of important aspects of computer vision and machine leanring concepts that came in handy during the tough times we were facing because of pandemic.
